@@ -8,20 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/peterkimzz/aws-ssm-send-command.git"
+    "url": "git+https://github.com/nekitkas/aws-ssm-send-command.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/peterkimzz/aws-ssm-send-command/issues"
+    "url": "https://github.com/nekitkas/aws-ssm-send-command/issues"
   },
-  "homepage": "https://github.com/peterkimzz/aws-ssm-send-command#readme",
+  "homepage": "https://github.com/nekitkas/aws-ssm-send-command#readme",
   "dependencies": {
-    "@actions/core": "1.2.7",
+    "@actions/core": "1.9.1",
     "@actions/github": "4.0.0",
     "aws-sdk": "2.892.0",
-    "node-fetch": "2.6.1"
+    "node-fetch": "3.2.10"
   },
   "devDependencies": {
     "typescript": "4.2.4"
